@@ -1,6 +1,6 @@
 # TRU-OPEN-SOURCE-CLUB
 
-Intruducirty session Rust Programming & Sererless Authentication With JWT at  TRU, Kamloops, CA. 
+Introductory session Rust Programming & Sererless Authentication With JWT at  TRU, Kamloops, CA. 
 
 * Slides can be found [here](https://slides.com/rowdymehul/truopensoureclub#/)
 
