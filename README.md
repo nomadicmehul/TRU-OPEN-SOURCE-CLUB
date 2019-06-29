@@ -27,4 +27,4 @@ Intruducirty session Rust Programming & Sererless Authentication With JWT at  TR
 
 Feel free to ping me anytime on [Telegram](http://telegram.me/rowdymehul) or [Twitter](http://twitter.com/rowdymehul) and I’m happy to chat with you.
 
-For any queries raise a [issue](https://github.com/rowdymehul/Rust-Hacks-at-Cummins/issues) and please feel free to submit a PR anytime :)
+For any queries raise a [issue](https://github.com/rowdymehul/TRU-OPEN-SOURCE-CLUB/issues) and please feel free to submit a PR anytime :)
