@@ -18,7 +18,7 @@ Intruducirty session Rust Programming & Sererless Authentication With JWT at  TR
 
 * [Important Rust Links](/Important_links.md)
 * [5 - 10 mins Rust Demo](/short_demo)
-* [2 - 3 hrs Rust Event](/long_demo)
+* [2 - 3 hrs Rust Demo](/long_demo)
 
 ### Prerequisite 
 
