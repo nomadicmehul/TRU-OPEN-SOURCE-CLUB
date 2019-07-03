@@ -14,6 +14,8 @@ Intruducirty session Rust Programming & Sererless Authentication With JWT at  TR
 
 * *Organizers* are accountable to clarify queries on the day of event. 
 
+### Resources : 
+
 * [Important Rust Links](/Important_links.md)
 * [5 - 10 mins Rust Demo](/short_demo)
 * [2 - 3 hrs Rust Event](/long_demo)
